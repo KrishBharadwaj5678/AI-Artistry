@@ -65,5 +65,3 @@ generatebtn.addEventListener("click",()=>{
     }
    
 })
-
-// https://gencraft.com/search?s=%7B%22ai%22%3A%22cat+and+dog%22%7D
