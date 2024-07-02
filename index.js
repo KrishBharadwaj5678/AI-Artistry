@@ -17,7 +17,7 @@ t.to("h1.ai-image-generator",{
 })
 
 t.to("p.ai-description",{
-    duration:1.5,
+    duration:2,
     text:"Convert your text into an image within a second using this AI Image Generator."
 })
 
